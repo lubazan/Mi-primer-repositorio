@@ -3,3 +3,5 @@ este es el segundo comentario
 otro comentario
 ultimo comentario
 ultimo ultimo comentario
+no me funciona el boton de commit dek visual 
+tengo que hacerlo desde terminal.triste
